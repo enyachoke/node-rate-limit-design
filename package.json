@@ -14,7 +14,7 @@
     "@promster/hapi": "^4.1.2",
     "async-redis": "^1.1.7",
     "hapi": "^18.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prom-client": "^12.0.0",
     "redis": "^3.0.2"
   }
